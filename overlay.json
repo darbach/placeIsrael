@@ -1,0 +1,17 @@
+{
+  "faction": "/r/placeisrael",
+  "notifications": "",
+  "contact": "https://discord.gg/israel #r-slash-place",
+  "templates": [
+    {
+      "name": "Tiny flag",
+      "sources": [
+        "https://i.imgur.com/17Afl1b.jpg"
+      ],
+      "x": 427,
+      "y": 862
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
