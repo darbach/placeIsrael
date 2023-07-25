@@ -4,6 +4,14 @@
   "contact": "https://discord.gg/israel #r-slash-place",
   "templates": [
     {
+      "name": "Main area",
+      "sources": [
+        "https://i.imgur.com/TMe8KDb.png"
+      ],
+      "x": 1839,
+      "y": 806
+    },
+    {
       "name": "Tiny flag",
       "sources": [
         "https://i.imgur.com/dwkg0oL.png"
