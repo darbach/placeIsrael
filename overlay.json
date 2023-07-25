@@ -10,6 +10,14 @@
       ],
       "x": 427,
       "y": 862
+    },
+    {
+      "name": "Menorah",
+      "sources": [
+        "https://i.imgur.com/SrJTSP8.png"
+      ],
+      "x": 266,
+      "y" 1135
     }
   ],
   "whitelist": [],
